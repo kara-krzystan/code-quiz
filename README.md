@@ -30,8 +30,9 @@ THEN I can save my initials and score
 
 https://kara-krzystan.github.io/code-quiz/
 
-## Screenshot
-
+## Screenshots
+![screenshot](https://github.com/kara-krzystan/code-quiz/blob/main/images/Screenshot_1.png)
+![screenshot](https://github.com/kara-krzystan/code-quiz/blob/main/images/Screenshot_2.png)
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)

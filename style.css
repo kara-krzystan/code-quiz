@@ -65,7 +65,7 @@ ul li {
   margin: 1rem auto;
 }
 
-.btn {
+button {
   background-color: crimson;
   color:bisque;
   font-size: 1.5rem;
@@ -76,7 +76,7 @@ ul li {
   outline: none;
 }
 
-.btn:hover {
+button:hover {
   outline: none;
   background-color: rgb(65, 9, 41);
 }

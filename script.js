@@ -1,3 +1,47 @@
+const quizData = [
+  {
+    question: "What HTML tag is used when writing JavaScript code?",
+    a: "<javascript>",
+    b: "<javaScript>",
+    c: "<script>",
+    d: "<js>",
+    correct: "c",
+  },
+  {
+    question: "JavaScript is a ________ Side Scripting Language.",
+    a: "Server",
+    b: "Browser",
+    c: "Far",
+    d: "ISP",
+    correct: "b",
+  },
+  {
+    question: "Which built-in method sorts the elements of an array?",
+    a: "changeOrder(order)",
+    b: "order()",
+    c: "sort()",
+    d: "array_sorter",
+    correct: "c",
+  },
+  {
+    question: "Which of the following function of Array object reverses the order of the elements of an array?",
+    a: "reverse()",
+    b: "push()",
+    c: "reduce()",
+    d: "reuseRecycle()",
+    correct: "a",
+  },
+  {
+    question: "Which of the following is not a reserved word in JavaScript?",
+    a: "interface",
+    b: "throws",
+    c: "program",
+    d: "short",
+    correct: "c",
+  },
+];
+
+
 const intro = document.getElementById('intro')
 const startBtn = document.getElementById('start-btn')
 const submitBtn = document.getElementById('submit')
@@ -68,46 +112,3 @@ submitBtn.addEventListener('click', () => {
   }
 })
 
-
-const quizData = [
-  {
-    question: "What is the HTML tag is used when writing JavaScript code?",
-    a: "<javascript>",
-    b: "<javaScript>",
-    c: "<script>",
-    d: "<js>",
-    correct: "c",
-  },
-  {
-    question: "JavaScript is a ________ Side Scripting Language.",
-    a: "Server",
-    b: "Browser",
-    c: "Far",
-    d: "ISP",
-    correct: "b",
-  },
-  {
-    question: "Which built-in method sorts the elements of an array?",
-    a: "changeOrder(order)",
-    b: "order()",
-    c: "sort()",
-    d: "array_sorter",
-    correct: "c",
-  },
-  {
-    question: "Which of the following function of Array object reverses the order of the elements of an array?",
-    a: "reverse()",
-    b: "push()",
-    c: "reduce()",
-    d: "reuseRecycle()",
-    correct: "a",
-  },
-  {
-    question: "Which of the following is not a reserved word in JavaScript?",
-    a: "interface",
-    b: "throws",
-    c: "program",
-    d: "short",
-    correct: "c",
-  },
-];

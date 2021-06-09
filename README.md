@@ -2,7 +2,7 @@
 
 ## Description
 
-For this challenge, I was asked to create a timed, multiple choice coding-themed quiz.
+For this challenge, I was asked to create a timed, multiple choice, coding-themed quiz application that can store high scores.
 
 This application runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. It is also easy to navigate, with a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
